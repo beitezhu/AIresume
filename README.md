@@ -17,6 +17,19 @@ An AI resume builder is the next step in smart job applications, a powerful comb
 
 ![AI_resume_video](assets/videos/Genvideoresume.mp4)
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Autoplay Example</title>
+</head>
+<body>
+    <video autoplay muted loop>
+        <source src="assets/videos/Genvideoresume.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</body>
+</html>
+
 
 
 
