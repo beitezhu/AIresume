@@ -40,6 +40,7 @@ An AI resume builder is the next step in smart job applications, a powerful comb
 ## Wide Range of Customizable Templates
 We have over 25 beautifully designed templates that have been tested and reviewed by recruiters. Whether you’re a lawyer, an artist, an engineer, or any other professional — we’ve got customizable templates that will help you highlight your professional style and stand out from the crowd.
 <br>
+![AI_resume_Dell](assets/images/DALL·E-watercolor.png)
 
 ## Quick and Easy Creation Process in Minutes
 Our AI resume builder provides a quick and easy creation process, removing the need to agonize over writing decisions: simply follow our smart writing tips and keyword suggestions. Save time by editing a job-specific example or simply upload an existing resume to auto-fill all the relevant sections!
