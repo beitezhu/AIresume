@@ -2,4 +2,4 @@
 
 Use professional field-tested resume templates that follow the exact ‘resume rules’ employers look for. Easy to use and done within minutes - try now for free!
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/MgPDbjg/AIresume-cartoon.png" alt="AIresume-cartoon" border="0" /></a>
+![AI_resume](assets/images/AIresume_group.png)
