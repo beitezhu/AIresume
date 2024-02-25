@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#ai-resume-title {
+    color: #333;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.ai-resume-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 20px auto;
+    display: block; /* Center the button */
+}
+
+/* Add a hover effect for the button */
+.ai-resume-button:hover {
+    background-color: #0056b3;
+}
