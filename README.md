@@ -12,9 +12,11 @@ An AI resume builder is the next step in smart job applications, a powerful comb
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tpSG4xd/AIresume-watercolor.png" alt="AIresume-watercolor" border="0" /></a>
 
 
-![AI_resume](/../assets/images/AIresume_cartoon.png)
+![AI_resume](assets/images/AIresume_cartoon.png)
+![AI_resume](/assets/images/AIresume_cartoon.png)
 
-![AI_resume_video](/..assets/videos/Genvideoresume.mp4)
+
+![AI_resume_video](assets/videos/Genvideoresume.mp4)
 
 
 
