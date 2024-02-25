@@ -1,3 +1,23 @@
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Resume</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1 id="ai-resume-title">AI Resume</h1>
+
+<a href="./another-page.html" class="ai-resume-button">How our AI resume works</a>
+
+</body>
+</html>
+
+
+
+
 # AI Resume
 
 [How our AI resume works](./another-page.html).
