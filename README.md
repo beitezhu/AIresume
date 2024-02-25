@@ -17,12 +17,6 @@
 
 
 
-
-# AI Resume
-
-[How our AI resume works](./another-page.html).
-
-
 Use our AI resume builder to create amazing resumes in minutes. Driven by real data, our tool helps you save time and avoid guesswork. Take advantage of AI-powered suggestions, pre-generated phrases, and expert designs. Less effort, better results!
 
 # Benefits of Using our AI Resume Maker
