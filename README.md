@@ -3,23 +3,6 @@
 [How our AI resume works](./another-page.html).
 
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI Resume</title>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-<h1 id="ai-resume-title">AI Resume</h1>
-
-<a href="./another-page.html" class="ai-resume-button">How our AI resume works</a>
-
-</body>
-</html>
-
-
 Use our AI resume builder to create amazing resumes in minutes. Driven by real data, our tool helps you save time and avoid guesswork. Take advantage of AI-powered suggestions, pre-generated phrases, and expert designs. Less effort, better results!
 
 # Benefits of Using our AI Resume Maker
